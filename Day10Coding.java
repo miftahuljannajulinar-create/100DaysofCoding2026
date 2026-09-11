@@ -17,6 +17,9 @@ System.out.println("Float minimal= " + - Float.MAX_VALUE);
 System.out.println("Float maksimal= " + Float.MAX_VALUE);
 //Double bisa digunakan untuk menyimpan angka pecahan dengan batas yang lebih besar
 System.out.println("Double minimal= " + - Double.MAX_VALUE);
-System.out.println("Double maksimal= " + Double.MAX_VALUE);     
-    }
+System.out.println("Double maksimal= " + Double.MAX_VALUE); 
+//Char bisa digunakan untuk menyimpan satu karakter dengan nilai 0 sampai 655335
+System.out.println("Char minimal= " + (int) Character.MIN_VALUE);    
+System.out.println("char maksimal= " + (int) Character.MAX_VALUE);
+}
 }

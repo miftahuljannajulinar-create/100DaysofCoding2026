@@ -20,6 +20,6 @@ System.out.println("Double minimal= " + - Double.MAX_VALUE);
 System.out.println("Double maksimal= " + Double.MAX_VALUE); 
 //Char bisa digunakan untuk menyimpan satu karakter dengan nilai 0 sampai 655335
 System.out.println("Char minimal= " + (int) Character.MIN_VALUE);    
-System.out.println("char maksimal= " + (int) Character.MAX_VALUE);
+System.out.println("Char maksimal= " + (int) Character.MAX_VALUE);
 }
 }
